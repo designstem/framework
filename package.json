@@ -19,7 +19,7 @@
     "rollup-plugin-replace": "^2.2.0",
     "rollup-plugin-terser": "^4.0.3",
     "store": "^2.0.12",
-    "three": "^0.101.1",
+    "three": "^0.125.0",
     "vue": "^2.6",
     "vue-router": "^3.0.7"
   }
